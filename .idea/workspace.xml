@@ -20,18 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "sophianaderf"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sophianaderf&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/sophianaderf/fundamentos-python.git",
-    "accountId": "c9468c07-3145-4d65-8b3f-a54aad49d4f1"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sophianaderf/fundamentos-python.git&quot;,
+    &quot;accountId&quot;: &quot;c9468c07-3145-4d65-8b3f-a54aad49d4f1&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4,
   &quot;fromUser&quot;: false
@@ -41,39 +41,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.exercicio02.executor": "Run",
-    "Python.exercicio03.executor": "Run",
-    "Python.exercicio04.executor": "Run",
-    "Python.exercicio05.executor": "Run",
-    "Python.exercicio06.executor": "Run",
-    "Python.exercicio07.executor": "Run",
-    "Python.exercicio08.executor": "Run",
-    "Python.exercicio10.executor": "Run",
-    "Python.exercicio11.executor": "Run",
-    "Python.exercicio12.executor": "Run",
-    "Python.funcoes.executor": "Run",
-    "Python.input.executor": "Run",
-    "Python.nome.executor": "Run",
-    "Python.variaveis.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/45165747808/Documents/Projetos/fundamentos-python",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.exercicio01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio07.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio08.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funcoes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.input.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.variaveis.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/45165747808/Documents/Projetos/fundamentos-python&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -88,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1785848058072</updated>
-      <workItem from="1785946860664" duration="5334000" />
+      <workItem from="1785946860664" duration="8917000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -139,6 +140,12 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/fundamentos_python$funcoes.coverage" NAME="funcoes Coverage Results" MODIFIED="1785956028830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funcoes" />
+    <SUITE FILE_PATH="coverage/fundamentos_python$exercicio03.coverage" NAME="exercicio03 Coverage Results" MODIFIED="1785958828492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funcoes/exercicios" />
     <SUITE FILE_PATH="coverage/fundamentos_python$input.coverage" NAME="input Coverage Results" MODIFIED="1785954186107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/entrada_dados" />
+    <SUITE FILE_PATH="coverage/fundamentos_python$exercicio05.coverage" NAME="exercicio05 Coverage Results" MODIFIED="1785959724099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funcoes/exercicios" />
+    <SUITE FILE_PATH="coverage/fundamentos_python$exercicio04.coverage" NAME="exercicio04 Coverage Results" MODIFIED="1785958933920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funcoes/exercicios" />
+    <SUITE FILE_PATH="coverage/fundamentos_python$exercicio01.coverage" NAME="exercicio01 Coverage Results" MODIFIED="1785957597645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funcoes/exercicios" />
+    <SUITE FILE_PATH="coverage/fundamentos_python$exercicio02.coverage" NAME="exercicio02 Coverage Results" MODIFIED="1785958623712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funcoes/exercicios" />
+    <SUITE FILE_PATH="coverage/fundamentos_python$exercicio06.coverage" NAME="exercicio06 Coverage Results" MODIFIED="1785959922331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funcoes/exercicios" />
   </component>
 </project>
