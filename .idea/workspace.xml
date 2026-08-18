@@ -5,17 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c08a605b-0873-427c-aed0-74d76abc056d" name="Changes" comment="Exercícios python">
-      <change afterPath="$PROJECT_DIR$/estruturas_decisao/exercicios/exercicio01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturas_decisao/exercicios/exercicio02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturas_decisao/exercicios/exercicio03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturas_decisao/exercicios/exercicio04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturas_decisao/exercicios/exercicio05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturas_decisao/exercicios/exercicio06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturas_decisao/exercicios/exercicio07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturas_decisao/exercicios/exercicio08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturas_decisao/exercicios/exercicio09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estruturas_decisao/exercicios/exercicio10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturas_decisao/exercicios/exercicio11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturas_decisao/exercicios/exercicio12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturas_decisao/exercicios/exercicio13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturas_decisao/exercicios/exercicio14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturas_decisao/exercicios/exercicio15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturas_decisao/exercicios/exercicio16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturas_decisao/exercicios/exercicio17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturas_decisao/exercicios/exercicio18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturas_decisao/exercicios/exercicio20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estruturas_decisao/exercicios/exercicoio19.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estruturas_decisao/exercicios/exercicio10.py" beforeDir="false" afterPath="$PROJECT_DIR$/estruturas_decisao/exercicios/exercicio10.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,53 +57,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.combinado_and_e_or.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exemplos_if_else.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio06.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio07.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio08.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio09.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio16.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio17.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio18.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio19.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercicio20.executor&quot;: &quot;Run&quot;,
-    &quot;Python.funcoes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.input.executor&quot;: &quot;Run&quot;,
-    &quot;Python.nome.executor&quot;: &quot;Run&quot;,
-    &quot;Python.operador_not.executor&quot;: &quot;Run&quot;,
-    &quot;Python.operador_or.executor&quot;: &quot;Run&quot;,
-    &quot;Python.operadores_logicos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.variaveis.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/45165747808/Documents/Projetos/fundamentos-python&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.combinado_and_e_or.executor": "Run",
+    "Python.exemplos_if_else.executor": "Run",
+    "Python.exercicio01.executor": "Run",
+    "Python.exercicio02.executor": "Run",
+    "Python.exercicio03.executor": "Run",
+    "Python.exercicio04.executor": "Run",
+    "Python.exercicio05.executor": "Run",
+    "Python.exercicio06.executor": "Run",
+    "Python.exercicio07.executor": "Run",
+    "Python.exercicio08.executor": "Run",
+    "Python.exercicio09.executor": "Run",
+    "Python.exercicio10.executor": "Run",
+    "Python.exercicio11.executor": "Run",
+    "Python.exercicio12.executor": "Run",
+    "Python.exercicio13.executor": "Run",
+    "Python.exercicio14.executor": "Run",
+    "Python.exercicio15.executor": "Run",
+    "Python.exercicio16.executor": "Run",
+    "Python.exercicio17.executor": "Run",
+    "Python.exercicio18.executor": "Run",
+    "Python.exercicio19.executor": "Run",
+    "Python.exercicio20.executor": "Run",
+    "Python.funcoes.executor": "Run",
+    "Python.input.executor": "Run",
+    "Python.nome.executor": "Run",
+    "Python.operador_not.executor": "Run",
+    "Python.operador_or.executor": "Run",
+    "Python.operadores_logicos.executor": "Run",
+    "Python.variaveis.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/45165747808/Documents/Projetos/fundamentos-python",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\45165747808\Documents\Projetos\fundamentos-python\estruturas_decisao" />
@@ -213,6 +215,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="exercicio10" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="~\Documents\Projetos\fundamentos-python\.venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/estruturas_decisao/exercicios" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estruturas_decisao/exercicios/exercicio10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -232,7 +260,9 @@
       <workItem from="1786444686492" duration="487000" />
       <workItem from="1786445197503" duration="11692000" />
       <workItem from="1786551648697" duration="3079000" />
-      <workItem from="1786554763749" duration="2196000" />
+      <workItem from="1786554763749" duration="3431000" />
+      <workItem from="1787049412796" duration="589000" />
+      <workItem from="1787050044184" duration="2695000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -284,15 +314,16 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/fundamentos_python$exercicio19.coverage" NAME="exercicio19 Coverage Results" MODIFIED="1786451377896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funcoes/exercicios" />
     <SUITE FILE_PATH="coverage/fundamentos_python$exercicio16.coverage" NAME="exercicio16 Coverage Results" MODIFIED="1786448796234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funcoes/exercicios" />
+    <SUITE FILE_PATH="coverage/fundamentos_python$exercicio13.coverage" NAME="exercicio13 Coverage Results" MODIFIED="1787051156966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/estruturas_decisao/exercicios" />
     <SUITE FILE_PATH="coverage/fundamentos_python$operadores_logicos.coverage" NAME="operadores_logicos Coverage Results" MODIFIED="1786452150019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/operadores_logicos" />
     <SUITE FILE_PATH="coverage/fundamentos_python$exercicio04.coverage" NAME="exercicio04 Coverage Results" MODIFIED="1786553039166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/estruturas_decisao/exercicios" />
     <SUITE FILE_PATH="coverage/fundamentos_python$exercicio01.coverage" NAME="exercicio01 Coverage Results" MODIFIED="1786552429019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/estruturas_decisao/exercicios" />
     <SUITE FILE_PATH="coverage/fundamentos_python$exemplos_if_else.coverage" NAME="exemplos_if_else Coverage Results" MODIFIED="1786457903056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/estruturas_decisao" />
-    <SUITE FILE_PATH="coverage/fundamentos_python$exercicio10.coverage" NAME="exercicio10 Coverage Results" MODIFIED="1786556581477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/estruturas_decisao/exercicios" />
+    <SUITE FILE_PATH="coverage/fundamentos_python$exercicio10.coverage" NAME="exercicio10 Coverage Results" MODIFIED="1787050088939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/estruturas_decisao/exercicios" />
     <SUITE FILE_PATH="coverage/fundamentos_python$exercicio08.coverage" NAME="exercicio08 Coverage Results" MODIFIED="1786554821126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/estruturas_decisao/exercicios" />
-    <SUITE FILE_PATH="coverage/fundamentos_python$exercicio14.coverage" NAME="exercicio14 Coverage Results" MODIFIED="1786448150753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funcoes/exercicios" />
-    <SUITE FILE_PATH="coverage/fundamentos_python$exercicio11.coverage" NAME="exercicio11 Coverage Results" MODIFIED="1786446598374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funcoes/exercicios" />
-    <SUITE FILE_PATH="coverage/fundamentos_python$exercicio05.coverage" NAME="exercicio05 Coverage Results" MODIFIED="1786554797442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/estruturas_decisao/exercicios" />
+    <SUITE FILE_PATH="coverage/fundamentos_python$exercicio14.coverage" NAME="exercicio14 Coverage Results" MODIFIED="1787051400098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/estruturas_decisao/exercicios" />
+    <SUITE FILE_PATH="coverage/fundamentos_python$exercicio05.coverage" NAME="exercicio05 Coverage Results" MODIFIED="1787049724300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/estruturas_decisao/exercicios" />
+    <SUITE FILE_PATH="coverage/fundamentos_python$exercicio11.coverage" NAME="exercicio11 Coverage Results" MODIFIED="1787050646025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/estruturas_decisao/exercicios" />
     <SUITE FILE_PATH="coverage/fundamentos_python$exercicio07.coverage" NAME="exercicio07 Coverage Results" MODIFIED="1786554491862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/estruturas_decisao/exercicios" />
     <SUITE FILE_PATH="coverage/fundamentos_python$exercicio02.coverage" NAME="exercicio02 Coverage Results" MODIFIED="1786552658065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/estruturas_decisao/exercicios" />
     <SUITE FILE_PATH="coverage/fundamentos_python$exercicio03.coverage" NAME="exercicio03 Coverage Results" MODIFIED="1786552851852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/estruturas_decisao/exercicios" />
@@ -300,13 +331,13 @@
     <SUITE FILE_PATH="coverage/fundamentos_python$exercicio20.coverage" NAME="exercicio20 Coverage Results" MODIFIED="1786452050400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funcoes/exercicios" />
     <SUITE FILE_PATH="coverage/fundamentos_python$exercicio09.coverage" NAME="exercicio09 Coverage Results" MODIFIED="1786556472256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/estruturas_decisao/exercicios" />
     <SUITE FILE_PATH="coverage/fundamentos_python$exercicio18.coverage" NAME="exercicio18 Coverage Results" MODIFIED="1786449551303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funcoes/exercicios" />
-    <SUITE FILE_PATH="coverage/fundamentos_python$exercicio17.coverage" NAME="exercicio17 Coverage Results" MODIFIED="1786449192822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funcoes/exercicios" />
+    <SUITE FILE_PATH="coverage/fundamentos_python$exercicio17.coverage" NAME="exercicio17 Coverage Results" MODIFIED="1787052153945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/estruturas_decisao/exercicios" />
     <SUITE FILE_PATH="coverage/fundamentos_python$operador_or.coverage" NAME="operador_or Coverage Results" MODIFIED="1786452928863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/operadores_logicos" />
     <SUITE FILE_PATH="coverage/fundamentos_python$combinado_and_e_or.coverage" NAME="combinado_and_e_or Coverage Results" MODIFIED="1786454495723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/operadores_logicos" />
     <SUITE FILE_PATH="coverage/fundamentos_python$funcoes.coverage" NAME="funcoes Coverage Results" MODIFIED="1785956028830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funcoes" />
-    <SUITE FILE_PATH="coverage/fundamentos_python$exercicio12.coverage" NAME="exercicio12 Coverage Results" MODIFIED="1786447750500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funcoes/exercicios" />
+    <SUITE FILE_PATH="coverage/fundamentos_python$exercicio12.coverage" NAME="exercicio12 Coverage Results" MODIFIED="1787050826667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/estruturas_decisao/exercicios" />
     <SUITE FILE_PATH="coverage/fundamentos_python$operador_not.coverage" NAME="operador_not Coverage Results" MODIFIED="1786453395426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/operadores_logicos" />
-    <SUITE FILE_PATH="coverage/fundamentos_python$exercicio15.coverage" NAME="exercicio15 Coverage Results" MODIFIED="1786448452718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/funcoes/exercicios" />
+    <SUITE FILE_PATH="coverage/fundamentos_python$exercicio15.coverage" NAME="exercicio15 Coverage Results" MODIFIED="1787051583723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/estruturas_decisao/exercicios" />
     <SUITE FILE_PATH="coverage/fundamentos_python$exercicio06.coverage" NAME="exercicio06 Coverage Results" MODIFIED="1786554126293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/estruturas_decisao/exercicios" />
   </component>
 </project>
