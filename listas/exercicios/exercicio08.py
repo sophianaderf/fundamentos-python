@@ -6,3 +6,5 @@ numeros = [8, 3, 10, 1, 5, 7]
 resultado = ordenar_numeros(numeros)
 
 print(f"Lista ordenada: {resultado}")
+
+ordenar_numeros(numeros)

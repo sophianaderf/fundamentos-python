@@ -6,3 +6,5 @@ frutas = ["Maçã", "Banana", "Laranja", "Morango", "Uva"]
 quantidade = quantidade_elementos(frutas)
 
 print(f"Quantidade de frutas: {quantidade}")
+
+quantidade_elementos(frutas)

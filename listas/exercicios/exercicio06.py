@@ -6,3 +6,5 @@ produtos = ["Arroz", "Feijão", "Macarrão", "Leite"]
 posicao = encontrar_produto(produtos, produto)
 
 print(f"O produto está na posição: {posicao}")
+
+encontrar_produto(produtos, produto)

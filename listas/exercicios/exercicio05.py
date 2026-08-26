@@ -11,3 +11,5 @@ removido = remover_item(itens, posicao)
 
 print(f"Item removido: {removido}")
 print(f"Lista atualizada: {itens}")
+
+removido = remover_item(itens, posicao)
